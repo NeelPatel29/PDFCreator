@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PDFCreator</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Media_Type">
+        <item>TEXT</item>
+        <item>LINK</item>
+        <item>IMAGE</item>
+        <item>VIDEO</item>
+    </string-array>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Edit Screen</string>
+    <string name="slide_1_desc">Swipe Right to Edit data...</string>
+
+    <string name="slide_2_title">Delete Screen</string>
+    <string name="slide_2_desc">Swipe Left to Delete data...</string>
+
+    <string name="slide_3_title">Drage And Drop</string>
+    <string name="slide_3_desc">Long Press on data to Drag and Drop...</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="slide_5_title">Welcome !</string>
+    <string name="slide_5_desc">Got it ! Let us move to Application...</string>
+
+</resources>

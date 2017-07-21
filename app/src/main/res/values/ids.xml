@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="txtText" type="id"></item>
+
+    <item name="displayLinear" type="id"></item>
+
+    <item name="progressBar" type="id"></item>
+    <item name="textviewTitle" type="id"></item>
+
+    <item name="optMenu" type="id"></item>
+    <item name="txtTextSeq" type="id"></item>
+    <item name="txtLink" type="id"></item>
+    <item name="viewImage" type="id"></item>
+    <item name="viewVideo" type="id"></item>
+
+
+    <item name="etTEXT" type="id"></item>
+    <item name="etURL" type="id"></item>
+    <item name="etIMAGE" type="id"></item>
+    <item name="etVIDEO" type="id"></item>
+    <item name="spType" type="id"></item>
+    <item name="btnLoad" type="id"></item>
+
+
+    <item name="ibCopy" type="id"></item>
+    <item name="ibPaste" type="id"></item>
+    <item name="ibCut" type="id"></item>
+    <item name="ibColor" type="id"></item>
+    <item name="ibBold" type="id"></item>
+    <item name="ibItalic" type="id"></item>
+    <item name="ibUnderline" type="id"></item>
+    <item name="ibBullets" type="id"></item>
+    <item name="ibNumber" type="id"></item>
+    <item name="bottomPanle" type="id"></item>
+
+
+
+
+
+</resources>
